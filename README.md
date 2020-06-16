@@ -1,7 +1,5 @@
 # mws [![PyPI version](https://badge.fury.io/py/mws.svg)](https://badge.fury.io/py/mws) 
 
-**Join us on [Slack](https://join.slack.com/t/pythonamazonmws/shared_invite/enQtOTcwNTAzNjI4OTc2LTQyMzk1YzIxNTU0MmE1MWE0ZDUzZjBhMjI2ODZhNTQ5Mjk3ZTUyOGFkODk1N2Q2NjczZjY2M2U3NzAzNDU4ZTc)!**
-
 master: 
 [![Requirements Status](https://requires.io/github/python-amazon-mws/python-amazon-mws/requirements.svg?branch=master)](https://requires.io/github/python-amazon-mws/python-amazon-mws/requirements/) [![Build Status](https://travis-ci.org/python-amazon-mws/python-amazon-mws.svg?branch=master)](https://travis-ci.org/python-amazon-mws/python-amazon-mws?branch=master) [![codecov](https://codecov.io/gh/python-amazon-mws/python-amazon-mws/branch/master/graph/badge.svg)](https://codecov.io/gh/python-amazon-mws/python-amazon-mws/branch/master)
 
@@ -32,7 +30,7 @@ If you want to continue using the 0.x versions, please pin your package to major
 If you want to use 1.x functionality right now, you can install directly from the Git repo. 
 
 ```
-pip install git+https://github.com/python-amazon-mws/python-amazon-mws.git@develop#egg=mws
+pip install git+https://github.com/SuperStarDev51/Python_Amazon_mws.git
 ```
 
 # Quickstart
